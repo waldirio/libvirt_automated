@@ -45,3 +45,7 @@ Type the new hostname: new01
 ```
 
 Now there is one new machine totally configured according your template, just turn on and use it.
+
+PS: If you added some packages in your template, for sure, this one will be available in the new VM, so enjoy it.
+
+Waldirio
