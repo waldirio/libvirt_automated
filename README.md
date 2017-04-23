@@ -5,7 +5,7 @@ This script is just to automate the process to create one new VM and change what
  * Creation of new machine from templates *VM already ready and configured to be one new VM*
  * Deletion of the VMs on the Libvirt, removing everything
 
-#Usage
+# Usage
 After download the script, just type
 ```
 # ./autolibvirt.sh
