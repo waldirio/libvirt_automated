@@ -8,7 +8,7 @@ This script is just to automate the process to create one new VM and change what
 # Usage
 After download the script, just type
 ```
-# ./autolibvirt.sh
+# ./libvirt_automated.sh
 ```
 
 After that just follow the script according the menu
